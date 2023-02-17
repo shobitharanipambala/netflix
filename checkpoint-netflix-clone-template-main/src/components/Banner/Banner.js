@@ -1,17 +1,17 @@
-import "./Banner.css";
-import { useState, useEffect } from "react";
-import axios from "axios";
-import requests from "../../request";
+// import "./Banner.css";
+// import { useState, useEffect } from "react";
+// // import axios from "axios";
+// // import requests from "../../request";
 
-const Banner = () => {
-  const [movie, setMovie] = useState([]);
-  useEffect(() => {
+// const Banner = () => {
+//   const [movie, setMovie] = useState([]);
+//   useEffect(() => {
 
-  }, []);
+//   }, []);
 
-  return (
+//   return (
 
-  );
-};
+//   );
+// };
 
 export default Banner;
