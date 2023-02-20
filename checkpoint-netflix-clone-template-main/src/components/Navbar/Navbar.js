@@ -23,6 +23,9 @@ const Navbar = () => {
     };
   }, []);
 
+
+
+
   return (
     <div className={"navlogo"} >
       <img
