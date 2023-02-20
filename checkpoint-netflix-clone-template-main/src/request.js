@@ -10,3 +10,5 @@ const requests = {
   fetchRomanceMovies: `https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY}&with_genres=10749`,
 };
 export default requests;
+
+// https://image.tmdb.org/t/p/original/${backdrop_path

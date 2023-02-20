@@ -1,3 +1,4 @@
+// step 2: create Navbar
 import React, { useRef, useEffect, useState } from "react";
 import "./Navbar.css";
 
